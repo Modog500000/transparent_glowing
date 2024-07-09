@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package org.modogthedev.transparentglowing.platform.services;
 
 public interface IPlatformHelper {
 

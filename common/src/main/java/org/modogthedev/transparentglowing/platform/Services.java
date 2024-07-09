@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package org.modogthedev.transparentglowing.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import org.modogthedev.transparentglowing.Constants;
+import org.modogthedev.transparentglowing.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
